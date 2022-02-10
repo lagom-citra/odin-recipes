@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 367px;
+  height: auto;
+}
+
+h1, h2, h3 {
+  background-color: blue;
+  color: goldenrod;
+  text-align: center;
+}
+
+p,
+ul,
+ol {
+  background: darkblue;
+  color: goldenrod;
+  padding: 4px;
+  padding-left: 9px;
+}
+
+
+ul,
+ol {
+  padding-left: 22px;
+}
+
+
+a {
+  background-color: blue;
+  color: lightskyblue;
+}
+
+strong {
+  color: darkred;
+}
+
+em {
+  color: pink;
+}
